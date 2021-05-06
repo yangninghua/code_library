@@ -1,0 +1,2 @@
+# local_image_descriptor
+local_image_descriptor
