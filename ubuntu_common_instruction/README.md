@@ -1,13 +1,25 @@
 # ubuntu common instruction
 [matplotlib](https://github.com/matplotlib/cheatsheets)
 
+![image-20210701173447988](README.assets/image-20210701173447988.png)
+
+![cheatsheets-2](README.assets/cheatsheets-2.png)
+
+![handout-beginner](README.assets/handout-beginner.png)
+
+![handout-intermediate](README.assets/handout-intermediate.png)
+
+![handout-tips](README.assets/handout-tips.png)
+
 ## docker
+
 sudo su
 docker ps -a
 docker run ：创建一个新的容器并运行一个命令
 语法
 docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 OPTIONS说明：
+
 * -a stdin: 指定标准输入输出内容类型，可选 STDIN/STDOUT/STDERR 三项；
 
 * -d: 后台运行容器，并返回容器ID；
@@ -55,7 +67,6 @@ opencv:3.3.0 \
 docker commit test_ynh opencv:3.3.1
 
 docker images
-
 
 
 
