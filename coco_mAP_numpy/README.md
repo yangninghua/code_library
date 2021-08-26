@@ -1,5 +1,9 @@
 # coco_mAP_numpy
 
+### 参考
+https://cocodataset.org/#detection-eval
+https://github.com/rafaelpadilla/review_object_detection_metrics
+
 ### 任务启动
 python main_inference.py
 
