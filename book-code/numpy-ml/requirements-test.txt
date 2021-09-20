@@ -1,0 +1,14 @@
+numpy
+scipy
+sklearn
+torch
+networkx
+tensorflow
+keras
+gym
+huffman
+librosa>=0.8.0
+nltk
+hmmlearn
+tox
+pytest
