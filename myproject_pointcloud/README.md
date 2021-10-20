@@ -5,7 +5,9 @@
 
 估计一般点云法向量的思路是根据邻域内的点拟合一个平面，则平面的法线方向即为点的法向量。记点的邻域为：
 
-$\mathcal{N}=\left\{p_{i}\left(x_{i}, y_{i}, z_{i}\right) \mid i=1,2, \ldots, n\right\}$
+$$
+\mathcal{N}=\left\{p_{i}\left(x_{i}, y_{i}, z_{i}\right) \mid i=1,2, \ldots, n\right\}
+$$
 
 
 
