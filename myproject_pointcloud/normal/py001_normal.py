@@ -10,6 +10,8 @@ import open3d as o3d
 # env:environment/mmlab_point3d_open3d/bin/python  open3d==0.9.0.0  numpy==1.19.5
 # env:environment/miniconda3_py17/bin/python  open3d==0.13.0  numpy==1.21.0
 
+# 以下代码是open3d==0.13.0.0
+
 path = os.path.join(ROOT, "bun000.ply")
 normalPath = path.replace("bun000.ply", "bun000_normal.ply")
 pcd = o3d.io.read_point_cloud(path)
